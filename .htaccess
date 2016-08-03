@@ -1,0 +1,6 @@
+
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule ^/?abc$  MainPage
+RewriteRule ^/?bbc$  register.php
+RewriteRule ^/?abcReg$  register.html
